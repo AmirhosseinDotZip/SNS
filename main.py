@@ -63,7 +63,7 @@ def search_articles(search_term):
 
 
 # search for articles related to the search term
-search_results = search_articles('web')
+search_results = search_articles('data structures')
 
 # Print the number of search results
 print(f"Number of search results: {len(search_results)}\n")
