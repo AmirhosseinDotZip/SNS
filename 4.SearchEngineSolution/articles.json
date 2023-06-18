@@ -1,0 +1,16 @@
+{
+  "articles": [
+    {
+      "title": "Introduction to Python",
+      "content": "Python is a high-level programming language used for many purposes..."
+    },
+    {
+      "title": "Python Data Structures",
+      "content": "Python provides several built-in data structures, such as lists, tuples, and dictionaries..."
+    },
+    {
+      "title": "Python Libraries for Data Science",
+      "content": "Python has several libraries for data science, such as NumPy, Pandas, and Matplotlib..."
+    }
+  ]
+}
