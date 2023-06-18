@@ -14,7 +14,7 @@ To install NLTK, you can use pip:
 
 ## How to Use
 
-1. Clone the repository and navigate to the project directory. preferably the 7th folder for the best results
+1. Clone the repository and navigate to the project directory.
 2. Open a terminal window and run the following command: 
 
 ```python main.py```
